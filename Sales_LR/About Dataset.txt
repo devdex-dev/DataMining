@@ -1,0 +1,10 @@
+https://www.kaggle.com/datasets/martinezjosegpe/grocery-store?select=proyecto+final.xlsx
+
+About Dataset
+This is a raw data dataset from my family's grocery store in Mexico, the biggest file is the raw database with over 100 tables, the largest being over 5 million rows. Information in this dataset starts in 2014 when we installed the sales software. Latest data is Oct/2022, which is when I pulled the data to explore and practice with it. Includes sales, item description, Id's, dates, etc. With it you can do whatever you want, from weekly, monthly and yearly sales, to finding what's the most selling product during the weekend or on a Tuesday.
+
+The excel file is cleaned data that I pulled from the raw data, includes some charts and filtered and sorted information.
+Some tables and column names might be in Spanish, hopefully that is not a big problem for you to explore the data!
+
+AUTHOR NAME(Kaggle)
+Jose Martinez
